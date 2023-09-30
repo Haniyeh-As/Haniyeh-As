@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**Haniyeh-As/Haniyeh-As** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi 👋, I'm Haniyeh</h1>
+<h1 align="center">Hi 👋, I'm Haniyeh Asiliyan</h1>
 <h3 align="center">A MSc Student in Data Science from Iran</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Power BI**
